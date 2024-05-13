@@ -1,0 +1,9 @@
+﻿2024; 6; 25; 2330; Dentist
+2024; 6; 26; 1830; Dinner with parents
+2024; 4; 27; 1000; Submit weekly report
+2024; 4; 28; 1200; Pay electricity bill
+2024; 5; 27; 1350; Buy chicken
+2024; 5; 4; 1345; Mathematics exam
+2024; 5; 6; 2000; Go to Tesco
+2024; 5; 10; 1145; Return from Gliwice
+2024; 5; 12; 750; Go to gym
